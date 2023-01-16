@@ -1,1 +1,1 @@
-# treas_island
+Try to pass this game!
